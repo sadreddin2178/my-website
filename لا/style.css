@@ -1,0 +1,18 @@
+body {
+  background-color: #cce6ff;
+  font-family: Tahoma, sans-serif;
+  direction: rtl;
+  padding: 20px;
+}
+nav a {
+  margin: 0 10px;
+  text-decoration: none;
+  color: #003366;
+  font-weight: bold;
+}
+textarea {
+  width: 100%;
+  max-width: 600px;
+  font-size: 16px;
+  padding: 10px;
+}
